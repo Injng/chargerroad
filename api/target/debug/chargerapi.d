@@ -1,0 +1,1 @@
+/home/lnjng/Documents/Programming/GitHub/chargerroad/api/target/debug/chargerapi: /home/lnjng/Documents/Programming/GitHub/chargerroad/api/src/lib.rs /home/lnjng/Documents/Programming/GitHub/chargerroad/api/src/main.rs
