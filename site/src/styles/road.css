@@ -1,0 +1,35 @@
+.wrap-collapsible {
+  margin-bottom: 1.2rem 0;
+  border: 2px solid;
+  border-color: #d1d1d1;
+}
+
+.button-collapse {
+  display: grid;
+  padding: 1rem;
+
+  font-family: monospace;
+  font-size: 1.2rem;
+  text-align: left;
+
+  color: black;
+  background: white;
+
+  border-radius: 7px;
+  border: none;
+  width: 100%;
+  
+  grid-template-columns: 300px 300px auto;
+  grid-auto-flow: column;
+}
+
+.button-title {
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.button-units {
+  font-weight: normal;
+}
+
+

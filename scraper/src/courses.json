@@ -1,0 +1,1757 @@
+[
+    {
+        "name": " American Government 1 ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": false,
+        "grades": "G12",
+        "category": "A",
+        "abbrev": " AMER GOVT 1 "
+    },
+    {
+        "name": " AP European History ",
+        "is_online": false,
+        "is_honors": true,
+        "is_year": true,
+        "grades": "G10t12",
+        "category": "A",
+        "abbrev": " AP EUR HIST "
+    },
+    {
+        "name": " AP Government and Politics United States ",
+        "is_online": false,
+        "is_honors": true,
+        "is_year": false,
+        "grades": "G12",
+        "category": "A",
+        "abbrev": " AP GOVPOL US "
+    },
+    {
+        "name": " AP United States History ",
+        "is_online": false,
+        "is_honors": true,
+        "is_year": true,
+        "grades": "G11",
+        "category": "A",
+        "abbrev": " AP US HIST "
+    },
+    {
+        "name": " CA - Principles of American Democracy  ",
+        "is_online": true,
+        "is_honors": false,
+        "is_year": false,
+        "grades": "G12",
+        "category": "A",
+        "abbrev": " Prin Amer Demo "
+    },
+    {
+        "name": " CA - Principles of American Democracy Honors ",
+        "is_online": true,
+        "is_honors": true,
+        "is_year": false,
+        "grades": "G11t12",
+        "category": "A",
+        "abbrev": " Prin Amer Demo Hnrs "
+    },
+    {
+        "name": " CA - United States  History and Geography  A/B ",
+        "is_online": true,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G9t12",
+        "category": "A",
+        "abbrev": " U.S. History and Geography 1 "
+    },
+    {
+        "name": " CA - United States History and Geography Honors ",
+        "is_online": true,
+        "is_honors": true,
+        "is_year": true,
+        "grades": "G10t12",
+        "category": "A",
+        "abbrev": " US Hist Geo Hnrs "
+    },
+    {
+        "name": " CA - US History and Geography Honors A ",
+        "is_online": true,
+        "is_honors": true,
+        "is_year": false,
+        "grades": "G10t12",
+        "category": "A",
+        "abbrev": " US Hist Geo Hnrs Term 1 "
+    },
+    {
+        "name": " CA - US History and Geography Honors B ",
+        "is_online": true,
+        "is_honors": true,
+        "is_year": false,
+        "grades": "G10t12",
+        "category": "A",
+        "abbrev": " US Hist Geo Hnrs Term 2 "
+    },
+    {
+        "name": " CA - World History, Culture, and Geography A/B ",
+        "is_online": true,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G10",
+        "category": "A",
+        "abbrev": " Wrld Hist, Cult, &amp; Geography 1 "
+    },
+    {
+        "name": " CA - World History, Culture, and Geography Honors A/B ",
+        "is_online": true,
+        "is_honors": true,
+        "is_year": false,
+        "grades": "G10t12",
+        "category": "A",
+        "abbrev": " Wrld Hst Cult Geo Hnrs Term 1 "
+    },
+    {
+        "name": " CA- World History, Culture and Geography Honors ",
+        "is_online": true,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G11t12",
+        "category": "A",
+        "abbrev": " Wrld Hist Cult Geo Hnrs "
+    },
+    {
+        "name": " U.S. History 1/2 ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G11",
+        "category": "A",
+        "abbrev": " US HISTORY 1 "
+    },
+    {
+        "name": " U.S. History Accelerated 1/2 ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G11",
+        "category": "A",
+        "abbrev": " US HIST ACC2 "
+    },
+    {
+        "name": " United States History Ethnic Studies ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G11t12",
+        "category": "A",
+        "abbrev": " US Hist Ethnic Studies "
+    },
+    {
+        "name": " World History/Cultures 3/4 ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G10",
+        "category": "A",
+        "abbrev": " WRLD HIS/CU3 "
+    },
+    {
+        "name": " World History/Cultures Acc. 3/4 ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G10",
+        "category": "A",
+        "abbrev": " WD HI/CU AC3 "
+    },
+    {
+        "name": " 10 English Language Arts with Academic Language Development ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G10",
+        "category": "B",
+        "abbrev": " English Lang Arts 3-4 w/ALD "
+    },
+    {
+        "name": " 10th Grade Ethnic Studies Literature ",
+        "is_online": false,
+        "is_honors": true,
+        "is_year": true,
+        "grades": "G10",
+        "category": "B",
+        "abbrev": " Ethnic Studies Literature "
+    },
+    {
+        "name": " 9th Grade English Language Arts with Academic Language Development ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G9",
+        "category": "B",
+        "abbrev": " English Lang Arts 1-2 "
+    },
+    {
+        "name": " AP English Language and Composition ",
+        "is_online": false,
+        "is_honors": true,
+        "is_year": true,
+        "grades": "G11t12",
+        "category": "B",
+        "abbrev": " AP ENGL LANG "
+    },
+    {
+        "name": " AP English Literature and Composition ",
+        "is_online": false,
+        "is_honors": true,
+        "is_year": true,
+        "grades": "G11t12",
+        "category": "B",
+        "abbrev": " AP ENGL LIT "
+    },
+    {
+        "name": " AP Seminar ",
+        "is_online": false,
+        "is_honors": true,
+        "is_year": true,
+        "grades": "G11t12",
+        "category": "B",
+        "abbrev": " AP CAPSTONE SEMINAR 1 "
+    },
+    {
+        "name": " CA - Common Core Eng Lang Arts 11 A ",
+        "is_online": true,
+        "is_honors": false,
+        "is_year": false,
+        "grades": "G11",
+        "category": "B",
+        "abbrev": " Eng. Lang Arts 11 Term 1 "
+    },
+    {
+        "name": " CA - Common Core English Language Arts 10 ",
+        "is_online": true,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G10t12",
+        "category": "B",
+        "abbrev": " Eng. Lang Arts 10 - Term 1 "
+    },
+    {
+        "name": " CA - Common Core English Language Arts 10 A/B ",
+        "is_online": true,
+        "is_honors": false,
+        "is_year": false,
+        "grades": "G10",
+        "category": "B",
+        "abbrev": " Eng. Lang Arts 10 Term 2 "
+    },
+    {
+        "name": " CA - Common Core English Language Arts 11 ",
+        "is_online": true,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G10t12",
+        "category": "B",
+        "abbrev": " Eng. Lang Arts 11 - Term 1 "
+    },
+    {
+        "name": " CA - Common Core English Language Arts 11 A/B ",
+        "is_online": true,
+        "is_honors": false,
+        "is_year": false,
+        "grades": "G11",
+        "category": "B",
+        "abbrev": " Eng. Lang Arts 11 Term 2 "
+    },
+    {
+        "name": " CA - Common Core English Language Arts 12 ",
+        "is_online": true,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G12",
+        "category": "B",
+        "abbrev": " Eng. Lang Arts 12 - Term 1 "
+    },
+    {
+        "name": " CA - Common Core English Language Arts 12 A ",
+        "is_online": true,
+        "is_honors": false,
+        "is_year": false,
+        "grades": "G12",
+        "category": "B",
+        "abbrev": " Eng Lang Arts 12 - Term 1 "
+    },
+    {
+        "name": " CA - Common Core English Language Arts 12 B ",
+        "is_online": true,
+        "is_honors": false,
+        "is_year": false,
+        "grades": "G12",
+        "category": "B",
+        "abbrev": " Eng Lang Arts 12 - Term 2 "
+    },
+    {
+        "name": " CA - Common Core English Language Arts 9 ",
+        "is_online": true,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G9",
+        "category": "B",
+        "abbrev": " Eng. Lang Arts 9 - Term 1 "
+    },
+    {
+        "name": " CA - Common Core English Language Arts 9 A ",
+        "is_online": true,
+        "is_honors": false,
+        "is_year": false,
+        "grades": "G9",
+        "category": "B",
+        "abbrev": " Eng Lang Arts 9 Term 1 "
+    },
+    {
+        "name": " CA - Common Core English Language Arts 9 Accelerated ",
+        "is_online": true,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G11t12",
+        "category": "B",
+        "abbrev": " Eng Lang Arts 9 Acc "
+    },
+    {
+        "name": " CA - Common Core English Language Arts 9 B ",
+        "is_online": true,
+        "is_honors": false,
+        "is_year": false,
+        "grades": "G9",
+        "category": "B",
+        "abbrev": " Eng Lang Arts  9 Term 2 "
+    },
+    {
+        "name": " CSU Expository Reading and Writing ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G12",
+        "category": "B",
+        "abbrev": " CSU Expository Reading &amp; Writ1 "
+    },
+    {
+        "name": " ELD 5-8 ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G9t12",
+        "category": "B",
+        "abbrev": " ENGLISH ELD5, ENGLISH ELD6 "
+    },
+    {
+        "name": " English 1/2 ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G9",
+        "category": "B",
+        "abbrev": " English 1/2/Eng 1/2 "
+    },
+    {
+        "name": " English 3/4 ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G10",
+        "category": "B",
+        "abbrev": " ENGLISH 4 "
+    },
+    {
+        "name": " English 5/6 ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G11",
+        "category": "B",
+        "abbrev": " ENGLISH 6 "
+    },
+    {
+        "name": " English 5/6 Honors ",
+        "is_online": false,
+        "is_honors": true,
+        "is_year": true,
+        "grades": "G11",
+        "category": "B",
+        "abbrev": " ENGLISH HON5 "
+    },
+    {
+        "name": " Accelerated Algebra 2 ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G10t12",
+        "category": "C",
+        "abbrev": " Accelerated Algebra 2 "
+    },
+    {
+        "name": " Algebra I ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G11t12",
+        "category": "C",
+        "abbrev": " Algebra 1/Alg 1 "
+    },
+    {
+        "name": " Algebra II ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G9t12",
+        "category": "C",
+        "abbrev": " ALGEBRA II "
+    },
+    {
+        "name": " AP Calculus AB ",
+        "is_online": false,
+        "is_honors": true,
+        "is_year": true,
+        "grades": "G12",
+        "category": "C",
+        "abbrev": " AP Calc AB "
+    },
+    {
+        "name": " AP Calculus BC ",
+        "is_online": false,
+        "is_honors": true,
+        "is_year": true,
+        "grades": "G12",
+        "category": "C",
+        "abbrev": " AP CALC BC "
+    },
+    {
+        "name": " AP Computer Science A ",
+        "is_online": false,
+        "is_honors": true,
+        "is_year": true,
+        "grades": "G11t12",
+        "category": "C",
+        "abbrev": " AP Comp Sci A "
+    },
+    {
+        "name": " AP Statistics ",
+        "is_online": false,
+        "is_honors": true,
+        "is_year": true,
+        "grades": "G11t12",
+        "category": "C",
+        "abbrev": " AP Stat "
+    },
+    {
+        "name": " CA - Algebra 2 Honors ",
+        "is_online": true,
+        "is_honors": true,
+        "is_year": true,
+        "grades": "G11t12",
+        "category": "C",
+        "abbrev": " Alg 2 Hnrs "
+    },
+    {
+        "name": " CA - Common Core Algebra 1 A ",
+        "is_online": true,
+        "is_honors": false,
+        "is_year": false,
+        "grades": "G9t12",
+        "category": "C",
+        "abbrev": " Alg 1 Term 1 (Edgenuity) "
+    },
+    {
+        "name": " CA - Common Core Algebra 1 B ",
+        "is_online": true,
+        "is_honors": false,
+        "is_year": false,
+        "grades": "G9t12",
+        "category": "C",
+        "abbrev": " Alg 1 Term 2 (Edgenuity) "
+    },
+    {
+        "name": " CA - Common Core Algebra 1 Honors ",
+        "is_online": true,
+        "is_honors": true,
+        "is_year": true,
+        "grades": "G11t12",
+        "category": "C",
+        "abbrev": " CA Alg 1 Hnrs "
+    },
+    {
+        "name": " CA - Common Core Algebra 1 Honors A/B ",
+        "is_online": true,
+        "is_honors": true,
+        "is_year": false,
+        "grades": "G11t12",
+        "category": "C",
+        "abbrev": " Alg 1 Hnrs Term 2 "
+    },
+    {
+        "name": " CA - Common Core Algebra 2 A ",
+        "is_online": true,
+        "is_honors": false,
+        "is_year": false,
+        "grades": "G9t12",
+        "category": "C",
+        "abbrev": " Alg 2 Term 1 (Edgenuity) "
+    },
+    {
+        "name": " CA - Common Core Algebra 2 B ",
+        "is_online": true,
+        "is_honors": false,
+        "is_year": false,
+        "grades": "G9t12",
+        "category": "C",
+        "abbrev": " Alg 2 Term 2 (Edgenuity) "
+    },
+    {
+        "name": " CA - Common Core Algebra 2 Honors ",
+        "is_online": true,
+        "is_honors": true,
+        "is_year": true,
+        "grades": "G11t12",
+        "category": "C",
+        "abbrev": " Alg 2 Honors "
+    },
+    {
+        "name": " CA - Common Core Algebra 2 Honors A/B ",
+        "is_online": true,
+        "is_honors": true,
+        "is_year": false,
+        "grades": "G11t12",
+        "category": "C",
+        "abbrev": " Alg 2 Hnrs Term 1 "
+    },
+    {
+        "name": " CA - Common Core Algebra I ",
+        "is_online": true,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G10t12",
+        "category": "C",
+        "abbrev": " Algebra I - Term 1 "
+    },
+    {
+        "name": " CA - Common Core Algebra II ",
+        "is_online": true,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G10t12",
+        "category": "C",
+        "abbrev": " Algebra II - Term 1 "
+    },
+    {
+        "name": " CA - Common Core Geometry A/B ",
+        "is_online": true,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G10t12",
+        "category": "C",
+        "abbrev": " Geometry Term 1 "
+    },
+    {
+        "name": " CA - Common Core Geometry Honors A/B ",
+        "is_online": true,
+        "is_honors": true,
+        "is_year": false,
+        "grades": "G11t12",
+        "category": "C",
+        "abbrev": " Geomtry Hnrs Term 1 "
+    },
+    {
+        "name": " CA - Common Core Pre Calculus Honors  ",
+        "is_online": true,
+        "is_honors": true,
+        "is_year": true,
+        "grades": "G11t12",
+        "category": "C",
+        "abbrev": " Pre Calc Hnrs "
+    },
+    {
+        "name": " CA - Common Core Pre-Calculus A/B ",
+        "is_online": true,
+        "is_honors": false,
+        "is_year": false,
+        "grades": "G11t12",
+        "category": "C",
+        "abbrev": " Pre Calc Term 2 "
+    },
+    {
+        "name": " CA - Common Core Pre-Calculus Honors A/B ",
+        "is_online": true,
+        "is_honors": true,
+        "is_year": false,
+        "grades": "G11t12",
+        "category": "C",
+        "abbrev": " Pre Calc Hnrs Term 1 "
+    },
+    {
+        "name": " CA - Statistics and Probability ",
+        "is_online": true,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G11t12",
+        "category": "C",
+        "abbrev": " Stats &amp; Prob "
+    },
+    {
+        "name": " CA- Common Core Pre-Calculus ",
+        "is_online": true,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G11t12",
+        "category": "C",
+        "abbrev": " CA Com Cor Pre Calc "
+    },
+    {
+        "name": " CA Geometry Honors ",
+        "is_online": true,
+        "is_honors": true,
+        "is_year": true,
+        "grades": "G11t12",
+        "category": "C",
+        "abbrev": " CA Geo Hnrs "
+    },
+    {
+        "name": " Construction Technology - Mathematics I ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G10t12",
+        "category": "C",
+        "abbrev": " Construction Technology - Math I "
+    },
+    {
+        "name": " Differential Equations ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": false,
+        "grades": "G11t12",
+        "category": "C",
+        "abbrev": " DIFFER EQN "
+    },
+    {
+        "name": " Electrical Maintenance ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G10t12",
+        "category": "C",
+        "abbrev": " Electrical Maintenance "
+    },
+    {
+        "name": " Geometry ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G9t12",
+        "category": "C",
+        "abbrev": " Geometry/Geom "
+    },
+    {
+        "name": " Heating, Ventilation and Air Conditioning (HVAC I) ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G11t12",
+        "category": "C",
+        "abbrev": " Heating, Vent and Air Cond "
+    },
+    {
+        "name": " Intermediate Calculus Honors ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G12",
+        "category": "C",
+        "abbrev": " INTER CALC H "
+    },
+    {
+        "name": " Metals Technology: Applied Mathematics in Fabricated Designs ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G10t12",
+        "category": "C",
+        "abbrev": " Metals Technology: Applied Mathematics "
+    },
+    {
+        "name": " Pre Calculus 1/2 ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G11t12",
+        "category": "C",
+        "abbrev": " Pre Calc 1 "
+    },
+    {
+        "name": " Pre Calculus 1/2 Honors ",
+        "is_online": false,
+        "is_honors": true,
+        "is_year": true,
+        "grades": "G11t12",
+        "category": "C",
+        "abbrev": " PRE CALC H1 "
+    },
+    {
+        "name": " AP Biology ",
+        "is_online": false,
+        "is_honors": true,
+        "is_year": true,
+        "grades": "G11t12",
+        "category": "D",
+        "abbrev": " AP Bio "
+    },
+    {
+        "name": " AP Chemistry ",
+        "is_online": false,
+        "is_honors": true,
+        "is_year": true,
+        "grades": "G11t12",
+        "category": "D",
+        "abbrev": " AP CHEM "
+    },
+    {
+        "name": " AP Computer Science Principles ",
+        "is_online": false,
+        "is_honors": true,
+        "is_year": true,
+        "grades": "G9t12",
+        "category": "D",
+        "abbrev": " AP COMPUTER SCIENCE "
+    },
+    {
+        "name": " AP Environmental Science ",
+        "is_online": false,
+        "is_honors": true,
+        "is_year": true,
+        "grades": "G11t12",
+        "category": "D",
+        "abbrev": " AP Env Sci "
+    },
+    {
+        "name": " AP Physics 1 ",
+        "is_online": false,
+        "is_honors": true,
+        "is_year": true,
+        "grades": "G11t12",
+        "category": "D",
+        "abbrev": " AP Physics 1 (Algebra-Based) "
+    },
+    {
+        "name": " AP Physics 2 ",
+        "is_online": false,
+        "is_honors": true,
+        "is_year": true,
+        "grades": "G11t12",
+        "category": "D",
+        "abbrev": " AP Physics 2 (Algebra-Based) "
+    },
+    {
+        "name": " Biology in the Dynamic Earth ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G9t12",
+        "category": "D",
+        "abbrev": " Bio in the Dynamic Earth 1 "
+    },
+    {
+        "name": " Biology in the Dynamic Earth Honors ",
+        "is_online": false,
+        "is_honors": true,
+        "is_year": true,
+        "grades": "G11t12",
+        "category": "D",
+        "abbrev": " Bio in the Dynamic Earth Honors 1 "
+    },
+    {
+        "name": " CA - Biology A ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": false,
+        "grades": "G11t12",
+        "category": "D",
+        "abbrev": " Biology A "
+    },
+    {
+        "name": " CA - Biology B ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": false,
+        "grades": "G9t12",
+        "category": "D",
+        "abbrev": " Biology B "
+    },
+    {
+        "name": " Ca - Chemistry ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G10t12",
+        "category": "D",
+        "abbrev": " Chemistry "
+    },
+    {
+        "name": " CA - Chemistry Honors A/B ",
+        "is_online": false,
+        "is_honors": true,
+        "is_year": false,
+        "grades": "G10t12",
+        "category": "D",
+        "abbrev": " Chem Hnrs Term 1 "
+    },
+    {
+        "name": " CA - Chemistry in the Earth System ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G9t12",
+        "category": "D",
+        "abbrev": " Chem Erth System "
+    },
+    {
+        "name": " CA - Chemistry in the Earth System A/B ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": false,
+        "grades": "G10t12",
+        "category": "D",
+        "abbrev": " Chem Earth Systems Term 1 "
+    },
+    {
+        "name": " CA - Chemistry in the Earth System Honors ",
+        "is_online": false,
+        "is_honors": true,
+        "is_year": true,
+        "grades": "G10t12",
+        "category": "D",
+        "abbrev": " Chem Earth Sci Hnrs "
+    },
+    {
+        "name": " CA - Chemistry in the Earth System Honors A/B ",
+        "is_online": false,
+        "is_honors": true,
+        "is_year": false,
+        "grades": "G10t12",
+        "category": "D",
+        "abbrev": " Chem Erth Systm Hnrs Term 1 "
+    },
+    {
+        "name": " CA - Physical Science ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G9t12",
+        "category": "D",
+        "abbrev": " Physical Sci  "
+    },
+    {
+        "name": " CA - Physics (A) ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": false,
+        "grades": "G9t12",
+        "category": "D",
+        "abbrev": " Physics Term 1 "
+    },
+    {
+        "name": " CA - Physics (B) ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": false,
+        "grades": "G9t12",
+        "category": "D",
+        "abbrev": " Physics Term 2 "
+    },
+    {
+        "name": " CA - Physics Honors A/B ",
+        "is_online": false,
+        "is_honors": true,
+        "is_year": false,
+        "grades": "G10t12",
+        "category": "D",
+        "abbrev": " Physics Hnrs Term 1 "
+    },
+    {
+        "name": " CA - Physics in the Universe ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G10t12",
+        "category": "D",
+        "abbrev": " Physics Univ "
+    },
+    {
+        "name": " CA - Physics in the Universe A/B ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": false,
+        "grades": "G9t12",
+        "category": "D",
+        "abbrev": " Phys Univ Term 1 "
+    },
+    {
+        "name": " CA - Physics in the Universe Honors ",
+        "is_online": false,
+        "is_honors": true,
+        "is_year": true,
+        "grades": "G10t12",
+        "category": "D",
+        "abbrev": " Physics Univ Hnrs "
+    },
+    {
+        "name": " CA Biology ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G9t12",
+        "category": "D",
+        "abbrev": " CA Biology "
+    },
+    {
+        "name": " CA Biology Honors ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G9t12",
+        "category": "D",
+        "abbrev": " CA Biology Honors "
+    },
+    {
+        "name": " CA- Earth and Space Science ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G9t12",
+        "category": "D",
+        "abbrev": " CA Earth Space Sci "
+    },
+    {
+        "name": " CA -Earth and Space Science A/B ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": false,
+        "grades": "G9t12",
+        "category": "D",
+        "abbrev": " Erth Space Sci Term 1 "
+    },
+    {
+        "name": " CA- Physics ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G10t12",
+        "category": "D",
+        "abbrev": " CA Physics "
+    },
+    {
+        "name": " CA-Chemistry A ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": false,
+        "grades": "G10t12",
+        "category": "D",
+        "abbrev": " Chem A "
+    },
+    {
+        "name": " CA-Chemistry B ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": false,
+        "grades": "G10t12",
+        "category": "D",
+        "abbrev": " Chem B "
+    },
+    {
+        "name": " CA-Chemistry Honors ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G10t12",
+        "category": "D",
+        "abbrev": " CA Chem Honors "
+    },
+    {
+        "name": " Chemistry in the Earth Systems ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G10t12",
+        "category": "D",
+        "abbrev": " Chemistry in the Earth Systems 1 "
+    },
+    {
+        "name": " Chemistry in the Earth Systems Honors ",
+        "is_online": false,
+        "is_honors": true,
+        "is_year": true,
+        "grades": "G10t12",
+        "category": "D",
+        "abbrev": " Chemistry in the Earth Systems Honors 1 "
+    },
+    {
+        "name": " Fire Science I ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G11t12",
+        "category": "D",
+        "abbrev": " Fire Science "
+    },
+    {
+        "name": " Forensic Sciences  ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G11t12",
+        "category": "D",
+        "abbrev": " FORENS (SCI) "
+    },
+    {
+        "name": " Integrated Animal Science  ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G11t12",
+        "category": "D",
+        "abbrev": " Integrated Animal Science "
+    },
+    {
+        "name": " Mechatronics Engineering ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G11t12",
+        "category": "D",
+        "abbrev": " MECHATRONIC ENGINEERING "
+    },
+    {
+        "name": " Medical Science Health Careers ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G11t12",
+        "category": "D",
+        "abbrev": " Medical Science Health Careers "
+    },
+    {
+        "name": " Nursing Careers ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": false,
+        "grades": "G10t12",
+        "category": "D",
+        "abbrev": " Nursing Career "
+    },
+    {
+        "name": " Physics in the Universe ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G9t12",
+        "category": "D",
+        "abbrev": " Physics in the Universe 1 "
+    },
+    {
+        "name": " Physics in the Universe Honors ",
+        "is_online": false,
+        "is_honors": true,
+        "is_year": true,
+        "grades": "G11t12",
+        "category": "D",
+        "abbrev": " Physics in the Universe Honors 1 "
+    },
+    {
+        "name": " PLTW Principles of Biomedical Science ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G10t12",
+        "category": "D",
+        "abbrev": " Prin of Bio Sci/PBS 1 "
+    },
+    {
+        "name": " Sports Medicine / Kinesiology  ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G11t12",
+        "category": "D",
+        "abbrev": " Sports Medicine / Kinesiology (ROP) "
+    },
+    {
+        "name": " The Living Earth ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G9t12",
+        "category": "D",
+        "abbrev": " Living Earth "
+    },
+    {
+        "name": " The Living Earth A/B ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": false,
+        "grades": "G9t12",
+        "category": "D",
+        "abbrev": " Living Earth Term 1 "
+    },
+    {
+        "name": " The Living Earth Honors ",
+        "is_online": false,
+        "is_honors": true,
+        "is_year": true,
+        "grades": "G10t12",
+        "category": "D",
+        "abbrev": " Living Earth Honors "
+    },
+    {
+        "name": " The Living Earth Honors A/B ",
+        "is_online": false,
+        "is_honors": true,
+        "is_year": false,
+        "grades": "G10t12",
+        "category": "D",
+        "abbrev": " Living Earth Hnrs Term 1 "
+    },
+    {
+        "name": " Zoology 1/2 ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G10t12",
+        "category": "D",
+        "abbrev": " ZOOLOGY 1 "
+    },
+    {
+        "name": " AP French Language and Culture ",
+        "is_online": false,
+        "is_honors": true,
+        "is_year": true,
+        "grades": "G11t12",
+        "category": "E",
+        "abbrev": " AP FRENCH "
+    },
+    {
+        "name": " AP Spanish Language and Culture ",
+        "is_online": false,
+        "is_honors": true,
+        "is_year": true,
+        "grades": "G10t12",
+        "category": "E",
+        "abbrev": " AP SPAN LANG "
+    },
+    {
+        "name": " French 1 (A) ",
+        "is_online": true,
+        "is_honors": false,
+        "is_year": false,
+        "grades": "G9t12",
+        "category": "E",
+        "abbrev": " French 1, Edgenuity "
+    },
+    {
+        "name": " French 1 (B) ",
+        "is_online": true,
+        "is_honors": false,
+        "is_year": false,
+        "grades": "G9t12",
+        "category": "E",
+        "abbrev": " French 1 B, Edgenuity "
+    },
+    {
+        "name": " French 1/2 ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G9t12",
+        "category": "E",
+        "abbrev": " FRENCH 2 "
+    },
+    {
+        "name": " French 2 (A) ",
+        "is_online": true,
+        "is_honors": false,
+        "is_year": false,
+        "grades": "G9t12",
+        "category": "E",
+        "abbrev": " French 2 A, Edgenuity "
+    },
+    {
+        "name": " French 2 (B) ",
+        "is_online": true,
+        "is_honors": false,
+        "is_year": false,
+        "grades": "G10t12",
+        "category": "E",
+        "abbrev": " French 2 B, Edgenuity "
+    },
+    {
+        "name": " French 3 (A) ",
+        "is_online": true,
+        "is_honors": false,
+        "is_year": false,
+        "grades": "G9t12",
+        "category": "E",
+        "abbrev": " French 3 A, Edgenuity "
+    },
+    {
+        "name": " French 3 (B) ",
+        "is_online": true,
+        "is_honors": false,
+        "is_year": false,
+        "grades": "G9t12",
+        "category": "E",
+        "abbrev": " French 3 B, Edgenuity "
+    },
+    {
+        "name": " French 3/4 ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G10t12",
+        "category": "E",
+        "abbrev": " FRENCH 3 "
+    },
+    {
+        "name": " FRENCH 5/6 ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G10t12",
+        "category": "E",
+        "abbrev": " FRENCH 6 "
+    },
+    {
+        "name": " Spanish 1/2 ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G9t12",
+        "category": "E",
+        "abbrev": " SPANISH 2 "
+    },
+    {
+        "name": " Spanish 3/4 ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G10t12",
+        "category": "E",
+        "abbrev": " SPANISH 3 "
+    },
+    {
+        "name": " Spanish 5/6 ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G11t12",
+        "category": "E",
+        "abbrev": " SPANISH 5 "
+    },
+    {
+        "name": " Spanish 5-6 Honors ",
+        "is_online": false,
+        "is_honors": true,
+        "is_year": true,
+        "grades": "G11t12",
+        "category": "E",
+        "abbrev": " SPANISH 6H "
+    },
+    {
+        "name": " Spanish I A/B ",
+        "is_online": true,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G9t12",
+        "category": "E",
+        "abbrev": " Spanish I - Term 1 "
+    },
+    {
+        "name": " Spanish II A/B ",
+        "is_online": true,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G9t12",
+        "category": "E",
+        "abbrev": " Spanish II - Term 1 "
+    },
+    {
+        "name": " Spanish III A/B ",
+        "is_online": true,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G9t12",
+        "category": "E",
+        "abbrev": " Spanish III - Term 1 "
+    },
+    {
+        "name": " Advanced Digital Photography ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G10t12",
+        "category": "F",
+        "abbrev": " ADVDIG PHOT2 "
+    },
+    {
+        "name": " Advanced Journalism Design &amp; Production ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G10t12",
+        "category": "F",
+        "abbrev": " Adv Journalism Design &amp; Prod 1 "
+    },
+    {
+        "name": " Advanced Yearbook Design and Publication ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G10t12",
+        "category": "F",
+        "abbrev": " Advanced Yearbook Design "
+    },
+    {
+        "name": " Animation (SVCTE) ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G11t12",
+        "category": "F",
+        "abbrev": " ANIMATN(ART) "
+    },
+    {
+        "name": " AP 2D Art and Design ",
+        "is_online": false,
+        "is_honors": true,
+        "is_year": true,
+        "grades": "G11t12",
+        "category": "F",
+        "abbrev": " AP ART 2D "
+    },
+    {
+        "name": " Beginning Band ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G9t12",
+        "category": "F",
+        "abbrev": " Beg Band "
+    },
+    {
+        "name": " CA - Art History ",
+        "is_online": true,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G9t12",
+        "category": "F",
+        "abbrev": " Art History "
+    },
+    {
+        "name": " CA - Visual Arts ",
+        "is_online": true,
+        "is_honors": false,
+        "is_year": false,
+        "grades": "G10t12",
+        "category": "F",
+        "abbrev": " Visual Arts "
+    },
+    {
+        "name": " CA - Visual Arts A/B ",
+        "is_online": true,
+        "is_honors": false,
+        "is_year": false,
+        "grades": "G9t12",
+        "category": "F",
+        "abbrev": " Visual Arts Term 1 "
+    },
+    {
+        "name": " Chamber Chorale ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G9t12",
+        "category": "F",
+        "abbrev": " CHAMBR CHORL "
+    },
+    {
+        "name": " Chamber Orchestra ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G9t12",
+        "category": "F",
+        "abbrev": " CHAMBR ORCH1 "
+    },
+    {
+        "name": " Concert Band ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G9t12",
+        "category": "F",
+        "abbrev": " CONCERT BAND "
+    },
+    {
+        "name": " Design in Mixed Media ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G9t12",
+        "category": "F",
+        "abbrev": " Design Mixed Media "
+    },
+    {
+        "name": " Digital Photography ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G9t12",
+        "category": "F",
+        "abbrev": " DIGT PHOTO 2 "
+    },
+    {
+        "name": " Drama 1/2 ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G9t12",
+        "category": "F",
+        "abbrev": " DRAMA 2 "
+    },
+    {
+        "name": " Drama Advanced ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G10t12",
+        "category": "F",
+        "abbrev": " DRAMA ADV "
+    },
+    {
+        "name": " Dramatic Interpretation ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G9t12",
+        "category": "F",
+        "abbrev": " DRMA INTERP1 "
+    },
+    {
+        "name": " Drawing, Painting Design 1/2 ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G9t12",
+        "category": "F",
+        "abbrev": " DRAW/PT/DES1 "
+    },
+    {
+        "name": " Drawing, Painting Design Adv ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G10t12",
+        "category": "F",
+        "abbrev": " DR/PT/DE ADV "
+    },
+    {
+        "name": " Fashion Design and Textile Art  ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G11t12",
+        "category": "F",
+        "abbrev": " FASHION DESIGN AND TEXTILE ART "
+    },
+    {
+        "name": " Film &amp; Video Production  ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G11t12",
+        "category": "F",
+        "abbrev": " Film and Video Production (ROP) "
+    },
+    {
+        "name": " Introduction to Design 1,2 (ID) ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G10t12",
+        "category": "F",
+        "abbrev": " IN DES ENG1 "
+    },
+    {
+        "name": " Jazz Band ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G9t12",
+        "category": "F",
+        "abbrev": " JAZZ BAND "
+    },
+    {
+        "name": " MULTIMEDIA PRODUCTION ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G10t12",
+        "category": "F",
+        "abbrev": " MLTIMED PRD2 "
+    },
+    {
+        "name": " Multimedia Production Advanced ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G10t12",
+        "category": "F",
+        "abbrev": " MLTMED PR AD "
+    },
+    {
+        "name": " Sculpture 3-D Design 1/2 ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G9t12",
+        "category": "F",
+        "abbrev": " SCUL/3-D DE1 "
+    },
+    {
+        "name": " Sculpture 3-D Design Adv. ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G10t12",
+        "category": "F",
+        "abbrev": " SCUL/3-D ADV "
+    },
+    {
+        "name": " Wind Ensemble ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G9t12",
+        "category": "F",
+        "abbrev": " WIND ENSM 2 "
+    },
+    {
+        "name": " AP Macroeconomics ",
+        "is_online": false,
+        "is_honors": true,
+        "is_year": false,
+        "grades": "G12",
+        "category": "G",
+        "abbrev": " AP Macro "
+    },
+    {
+        "name": " AP Research ",
+        "is_online": false,
+        "is_honors": true,
+        "is_year": true,
+        "grades": "G11t12",
+        "category": "G",
+        "abbrev": " AP CAPSTONE RESEARCH 1 "
+    },
+    {
+        "name": " CA - Art History A/B ",
+        "is_online": true,
+        "is_honors": false,
+        "is_year": false,
+        "grades": "G10t12",
+        "category": "G",
+        "abbrev": " Art Hist Term 1 "
+    },
+    {
+        "name": " CA - Economic Honors ",
+        "is_online": true,
+        "is_honors": true,
+        "is_year": false,
+        "grades": "G12",
+        "category": "G",
+        "abbrev": " Econ Honors "
+    },
+    {
+        "name": " CA - Economics ",
+        "is_online": true,
+        "is_honors": false,
+        "is_year": false,
+        "grades": "G11t12",
+        "category": "G",
+        "abbrev": " Economics "
+    },
+    {
+        "name": " CA - Physical Science (A) ",
+        "is_online": true,
+        "is_honors": false,
+        "is_year": false,
+        "grades": "G9t12",
+        "category": "G",
+        "abbrev": " Physical Sci Term 1 "
+    },
+    {
+        "name": " CA - Physical Science (B) ",
+        "is_online": true,
+        "is_honors": false,
+        "is_year": false,
+        "grades": "G9t12",
+        "category": "G",
+        "abbrev": " Physical Sci Term 2 "
+    },
+    {
+        "name": " CA - Psychology ",
+        "is_online": true,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G10t12",
+        "category": "G",
+        "abbrev": " Psychology "
+    },
+    {
+        "name": " CA - Psychology A/B ",
+        "is_online": true,
+        "is_honors": false,
+        "is_year": false,
+        "grades": "G10t12",
+        "category": "G",
+        "abbrev": " Psychology Term 1 "
+    },
+    {
+        "name": " Cybersecurity ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G10t12",
+        "category": "G",
+        "abbrev": " SVCTE Cybersecurity "
+    },
+    {
+        "name": " Dental Assisting ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G11t12",
+        "category": "G",
+        "abbrev": " DENTAL ASST (SCI) "
+    },
+    {
+        "name": " Economics 1 ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": false,
+        "grades": "G12",
+        "category": "G",
+        "abbrev": " ECONOMICS 1 "
+    },
+    {
+        "name": " Introduction to Computer Science Principles ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G10t12",
+        "category": "G",
+        "abbrev": " Intro. Computer Sci. Princ. 1 "
+    },
+    {
+        "name": " Introduction to Ethnic Studies ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G9t12",
+        "category": "G",
+        "abbrev": " Introduction to Ethnic Studies "
+    },
+    {
+        "name": " Introduction to Multimedia Journalism ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G9t12",
+        "category": "G",
+        "abbrev": " Intro to Multimedia Journalism "
+    },
+    {
+        "name": " Law Enforcement ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G10t12",
+        "category": "G",
+        "abbrev": " Law Enforcement "
+    },
+    {
+        "name": " Leadership ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G9t12",
+        "category": "G",
+        "abbrev": " Leadership "
+    },
+    {
+        "name": " Medical Assistant - Clinical  ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G11t12",
+        "category": "G",
+        "abbrev": " Medical Assistant - Clinical "
+    },
+    {
+        "name": " Medical Science / Health Careers  ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G11t12",
+        "category": "G",
+        "abbrev": " Medical Science / Health Careers "
+    },
+    {
+        "name": " Metals Technology ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G11t12",
+        "category": "G",
+        "abbrev": " Metals Technology "
+    },
+    {
+        "name": " Nursing Careers ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": false,
+        "grades": "G10t12",
+        "category": "G",
+        "abbrev": " Nursing Career "
+    },
+    {
+        "name": " Pharmacy Technician ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G11t12",
+        "category": "G",
+        "abbrev": " Pharmacy Technician "
+    },
+    {
+        "name": " Principles of Engineering ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G12",
+        "category": "G",
+        "abbrev": " Prin Engin1 "
+    },
+    {
+        "name": " ROP Mobile Application Development ",
+        "is_online": false,
+        "is_honors": false,
+        "is_year": true,
+        "grades": "G11t12",
+        "category": "G",
+        "abbrev": " Mobile App Development "
+    }
+]

@@ -1,0 +1,19 @@
+.main {
+  display: grid;
+  padding: 1rem;
+
+  grid-template-columns: 300px auto;
+}
+
+.road {
+  grid-column-start: 2;
+}
+
+.courses {
+  grid-column-start: 1;
+  grid-row-start: 1;
+}
+
+button:hover {
+  cursor: pointer;
+}
