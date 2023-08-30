@@ -1,1 +1,0 @@
-/home/lnjng/Documents/Programming/GitHub/chargerroad/target/debug/libchargerroad.rlib: /home/lnjng/Documents/Programming/GitHub/chargerroad/src/components/mod.rs /home/lnjng/Documents/Programming/GitHub/chargerroad/src/components/road.rs /home/lnjng/Documents/Programming/GitHub/chargerroad/src/lib.rs /home/lnjng/Documents/Programming/GitHub/chargerroad/src/styles/road.css
